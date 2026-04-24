@@ -1,3 +1,4 @@
 This is first text file.
 
-Add another File to folder and commit it.
+Add another File to folder and commit it. 
+Add another File to folder and commit it. 
